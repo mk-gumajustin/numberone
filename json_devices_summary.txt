@@ -1,0 +1,78 @@
+========================================================================
+DEVICE SUMMARY REPORT
+========================================================================
+Total devices: 1000
+
+------------------------------------------------------------------------
+1. BY MANUFACTURER (with Profile Status breakdown)
+------------------------------------------------------------------------
+HP: 462
+    - Assigned: 455
+    - Attention required: 1
+    - Not assigned: 6
+
+Dell Inc.: 455
+    - Assigned: 363
+    - Attention required: 1
+    - Fix pending: 3
+    - Not assigned: 88
+
+Microsoft Corporation: 75
+    - Assigned: 51
+    - Not assigned: 24
+
+Mini PC: 3
+    - Assigned: 3
+
+Lenovo: 2
+    - Assigned: 2
+
+VMware, Inc.: 2
+    - Assigned: 2
+
+Razer: 1
+    - Assigned: 1
+
+------------------------------------------------------------------------
+2. BY PROFILE STATUS (with Manufacturer breakdown)
+------------------------------------------------------------------------
+Assigned: 877
+    - HP: 455
+    - Dell Inc.: 363
+    - Microsoft Corporation: 51
+    - Mini PC: 3
+    - Lenovo: 2
+    - VMware, Inc.: 2
+    - Razer: 1
+
+Not assigned: 118
+    - Dell Inc.: 88
+    - Microsoft Corporation: 24
+    - HP: 6
+
+Fix pending: 3
+    - Dell Inc.: 3
+
+Attention required: 2
+    - HP: 1
+    - Dell Inc.: 1
+
+------------------------------------------------------------------------
+3. BY USERLESS ENROLLMENT STATUS (with Manufacturer breakdown)
+------------------------------------------------------------------------
+Unknown: 755
+    - HP: 365
+    - Dell Inc.: 322
+    - Microsoft Corporation: 61
+    - Mini PC: 3
+    - Lenovo: 2
+    - VMware, Inc.: 2
+
+Not Allowed: 244
+    - Dell Inc.: 132
+    - HP: 97
+    - Microsoft Corporation: 14
+    - Razer: 1
+
+Allowed: 1
+    - Dell Inc.: 1

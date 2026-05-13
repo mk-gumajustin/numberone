@@ -1,0 +1,116 @@
+{
+  "total_devices": 1000,
+  "by_manufacturer": {
+    "HP": {
+      "total": 462,
+      "profile_status": {
+        "Assigned": 455,
+        "Attention required": 1,
+        "Not assigned": 6
+      }
+    },
+    "Dell Inc.": {
+      "total": 455,
+      "profile_status": {
+        "Assigned": 363,
+        "Attention required": 1,
+        "Fix pending": 3,
+        "Not assigned": 88
+      }
+    },
+    "Microsoft Corporation": {
+      "total": 75,
+      "profile_status": {
+        "Assigned": 51,
+        "Not assigned": 24
+      }
+    },
+    "Mini PC": {
+      "total": 3,
+      "profile_status": {
+        "Assigned": 3
+      }
+    },
+    "Lenovo": {
+      "total": 2,
+      "profile_status": {
+        "Assigned": 2
+      }
+    },
+    "VMware, Inc.": {
+      "total": 2,
+      "profile_status": {
+        "Assigned": 2
+      }
+    },
+    "Razer": {
+      "total": 1,
+      "profile_status": {
+        "Assigned": 1
+      }
+    }
+  },
+  "by_profile_status": {
+    "Assigned": {
+      "total": 877,
+      "manufacturers": {
+        "HP": 455,
+        "Dell Inc.": 363,
+        "Microsoft Corporation": 51,
+        "Mini PC": 3,
+        "Lenovo": 2,
+        "VMware, Inc.": 2,
+        "Razer": 1
+      }
+    },
+    "Not assigned": {
+      "total": 118,
+      "manufacturers": {
+        "Dell Inc.": 88,
+        "Microsoft Corporation": 24,
+        "HP": 6
+      }
+    },
+    "Fix pending": {
+      "total": 3,
+      "manufacturers": {
+        "Dell Inc.": 3
+      }
+    },
+    "Attention required": {
+      "total": 2,
+      "manufacturers": {
+        "HP": 1,
+        "Dell Inc.": 1
+      }
+    }
+  },
+  "by_userless_enrollment_status": {
+    "Unknown": {
+      "total": 755,
+      "manufacturers": {
+        "HP": 365,
+        "Dell Inc.": 322,
+        "Microsoft Corporation": 61,
+        "Mini PC": 3,
+        "Lenovo": 2,
+        "VMware, Inc.": 2
+      }
+    },
+    "Not Allowed": {
+      "total": 244,
+      "manufacturers": {
+        "Dell Inc.": 132,
+        "HP": 97,
+        "Microsoft Corporation": 14,
+        "Razer": 1
+      }
+    },
+    "Allowed": {
+      "total": 1,
+      "manufacturers": {
+        "Dell Inc.": 1
+      }
+    }
+  }
+}
